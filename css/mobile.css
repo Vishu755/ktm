@@ -1,0 +1,141 @@
+@media only screen and (max-width: 767px) {
+ 
+ .section1 {
+    padding: 39px 0 55px 0px;
+    background-size: 100%;
+    background-attachment: unset;
+}
+.KTM-390 {
+    width: 63%;
+    padding: 13px 10px 13px 10px;
+    margin: 0px 0 0px 0;
+}
+ .KTM-390 p {
+    font-size: 14px;
+}
+ 
+ .KTM-390 h1 {
+    font-size: 38px;
+}
+ 
+ .DISCOVER {
+    margin-bottom: 20px;
+}
+.item {
+    width: 100%;
+}
+.booster input.form {
+    margin: 0 0 8px 0;
+}
+
+ .section9 {
+    padding: 18px 0;
+}
+.booster {
+    margin: 30px 0 0 0;
+
+}
+.mp iframe {
+    height: 25%;
+}
+.footer {
+    background-image: none;
+    background: black;
+    border-top: 2px solid #4c4b48;
+}
+
+.foot img {
+    margin: 0;
+}
+
+.Gallery img {
+    width: 17%;
+}
+.filtr ul {
+    padding: 0;
+}
+
+.section5 {
+    padding: 100px 0 100px 0;
+}
+
+}
+
+
+@media only screen and (max-width: 1180px) {
+
+.KTM-390 {
+width: 74%;
+}
+.foot img {
+    width: 179px;
+    margin: 0 0  0 -52px;
+}
+
+.mp iframe {
+
+    height: 28%;
+}
+
+button.btn-3 {
+    margin: 14px 0  15px 0;
+}
+.Gallery {
+
+    gap: 28px;
+}
+}
+
+@media only screen and (max-width: 300px) {
+
+.KTM-390 {width: 100%;}
+.foot img {
+    width: 179px;
+    margin: 0;
+}
+
+.mp iframe {
+
+    height: 28%;
+}
+
+button.btn-3 {
+    margin: 14px 0  15px 0;
+}
+.Gallery {
+
+gap: 9px;
+}
+
+.boost img {
+	width:100%
+}
+
+.DISCOVER h1 {
+    font-size: 31px;
+}
+a.navbar-brand img {
+    width: 119px;
+}
+
+.KTM-390 p {
+    font-size: 10px;
+	margin:0px;
+}
+
+.KTM-390 h1 {
+    font-size: 23px;
+}
+.section1 {
+    padding: 15px 0 18px 0px;
+   
+}
+
+
+
+
+
+
+
+
+
